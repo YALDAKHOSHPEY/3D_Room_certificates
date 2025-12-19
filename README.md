@@ -1,4 +1,4 @@
-# 🎨 3D Portfolio Experiment — Interactive Virtual Roo
+# 🎨 3D Portfolio Experiment — Interactive Virtual Room
 
 An experimental 3D portfolio concept built with pure **HTML, CSS, and JavaScript**, featuring an interactive 3D room where certificates are displayed on the walls. This project explores creative interfaces, immersive experiences, and advanced 3D CSS transformations.
 
